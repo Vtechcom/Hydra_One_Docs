@@ -149,7 +149,6 @@ flowchart TB
     D --> E[Bot xử lý lệnh]
     E --> F[Theo dõi vị thế]
     F --> g[Theo dõi vị thế / đóng lệnh]
-    
 ```
 
 ### 9.2 Provider Flow
